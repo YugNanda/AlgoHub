@@ -1,8 +1,8 @@
-# 🚀 DSA Visualizer
+# 🚀 StructureLab — High-Performance Data Structure & Algorithm Animation Studio
 
 ### "Stop memorizing code. Start seeing it."
 
-Welcome to **DSA Visualizer**, an interactive, open-source platform designed to bridge the gap between theoretical algorithm logic and practical implementation. This project is built to help the global community of students and developers master Data Structures and Algorithms through immersive, real-time animations.
+Welcome to **StructureLab**, an interactive, open-source platform designed to bridge the gap between theoretical algorithm logic and practical implementation. This project is built to help the global community of students and developers master Data Structures and Algorithms through immersive, real-time animations.
 
 ---
 
@@ -48,7 +48,7 @@ Click the **Fork** button at the top right of this page to create a copy of this
 
 ### 2. Clone your forked repository
 ```bash
-git clone https://github.com/<your_github_username>/DSA-Visualizer.git
+git clone https://github.com/YugNanda/StructureLab.git
 ```
 ### 3. Create a New Branch
 Always work on a new branch for each feature or fix to keep the main branch clean:
@@ -81,5 +81,5 @@ Upload your local branch changes to your forked repository on GitHub:
 git push origin fix-issue-<ISSUE-NUMBER>
 ```
 ### 8. Open a Pull Request
-Go to the original sanglaphalder/DSA-Visualizer repository on GitHub. You will see a green "Compare & pull request" button. Click it and describe your work!
+Go to the original YugNanda/StructureLab repository on GitHub. You will see a green "Compare & pull request" button. Click it and describe your work!
 
