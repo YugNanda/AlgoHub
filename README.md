@@ -85,3 +85,5 @@ Go to the original YugNanda/AlgoHub repository on GitHub. You will see a green "
 
 
 <!-- telemetry-tag: bench-1 -->
+
+<!-- telemetry-tag: timing-v2 -->
